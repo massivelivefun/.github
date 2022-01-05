@@ -2,7 +2,7 @@
 
 ## Conduct
 
-**Contact**: [matthewlancefuller@gmail.com](mailto:matthewlancefuller@gmail.com)
+**Contact**: [moderation@massivelive.fun](mailto:moderation@massivelive.fun)
 
 * We are committed to providing a friendly, safe and welcoming environment for all, regardless of level of experience, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion, nationality, or other similar characteristic.
 * On Discord, the forums, IRC, GitHub, or any other community area, please avoid using overtly sexual nicknames or other nicknames that might detract from a friendly, safe and welcoming environment for all.
@@ -16,7 +16,7 @@
 
 ## Moderation
 
-These are the policies for upholding our community's standards of conduct. If you feel that a thread needs moderation, please contact the [repository's moderation team][mod_team].
+These are the policies for upholding our community's standards of conduct. If you feel that a thread needs moderation, please contact the [moderation team][mod_team].
 
 1. Remarks that violate the aforementioned standards of conduct, including hateful, hurtful, oppressive, or exclusionary remarks, are not allowed. (Cursing in general is discouraged, and never tolerated if targeting another user, and never in a hateful manner.)
 2. Remarks that moderators find inappropriate, whether listed in the code of conduct or not, are also not allowed.
